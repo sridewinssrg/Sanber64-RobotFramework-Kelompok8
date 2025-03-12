@@ -6,7 +6,7 @@ Anggota Kelompok 8 :
 5) Nyimas Sri Dewi Lentera
 
 Pembagian Tugas :
-o) Sign In       = 
+o) Sign In       = Sri Dewi
 o) Book Flight   =
-o) Search        =
+o) Search        = Adzkia
 o) Sign Out      =
